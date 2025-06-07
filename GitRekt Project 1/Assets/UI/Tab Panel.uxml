@@ -1,0 +1,11 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/StyleSheets/UIStyle.uss?fileID=7433441132597879392&amp;guid=f6b746133c746bb4088b49bdc167861d&amp;type=3#UIStyle" />
+    <ui:VisualElement style="flex-grow: 1; background-image: none; -unity-background-image-tint-color: rgb(56, 56, 56); border-left-width: 21px; border-right-width: 21px; border-top-width: 21px; border-bottom-width: 21px; border-top-right-radius: 10px; border-top-left-radius: 10px; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; border-bottom-color: rgb(65, 49, 49); border-left-color: rgb(108, 74, 74); border-right-color: rgb(55, 39, 39); border-top-color: rgb(82, 57, 57); transform-origin: center; background-color: rgba(70, 96, 124, 0); -unity-background-scale-mode: scale-to-fit; -unity-slice-type: sliced; opacity: 1;">
+        <ui:TabView style="height: 131px;">
+            <ui:Tab label="Tab" />
+            <ui:Tab label="Tab" />
+            <ui:Tab label="Tab" />
+            <ui:Tab label="Tab" />
+        </ui:TabView>
+    </ui:VisualElement>
+</ui:UXML>
