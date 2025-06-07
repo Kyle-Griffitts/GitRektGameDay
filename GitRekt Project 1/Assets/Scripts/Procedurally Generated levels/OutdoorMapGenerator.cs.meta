@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 41e0614b7ee003940af7aaaa3b24109d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - isometricTile: {fileID: 2094943551, guid: b9322abd4f2aaad4c979c052daa67961, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

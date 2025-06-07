@@ -1,2 +1,2 @@
 # GitRektGameDay
-Our first Unity Project (babies first steps)
+Our first Unity Project (baby's first steps)
