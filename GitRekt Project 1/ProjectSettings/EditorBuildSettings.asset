@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/UI/StartScreen.unity
+    guid: 1666de9a8361b7642a2134ace9e1951c
+  - enabled: 1
+    path: Assets/Scenes/UI/OptionsMenu.unity
+    guid: ad39b236a3660d14093520e90573f3f1
+  - enabled: 1
+    path: Assets/Scenes/UI/LoadGameMenu.unity
+    guid: 7d9a73d349f69e14a819097cf8bf0677
+  - enabled: 1
+    path: Assets/Scenes/Game/CharacterCreation.unity
+    guid: 242be3bdb37e9dd4fb5270127ad27dff
+  - enabled: 1
+    path: Assets/Scenes/Game/KingdomSelection.unity
+    guid: d73b1ec4314c6ad448dd1506f8299fc1
+  - enabled: 1
+    path: Assets/Scenes/UI/KingdomStart.unity
+    guid: 561dfd66938be014fb7c2123c38e439f
+  - enabled: 1
+    path: Assets/Scenes/UI/GameHUD.unity
+    guid: 8e69e3febb69ad941af185d0adbee6b7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0

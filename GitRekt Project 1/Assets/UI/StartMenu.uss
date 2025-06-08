@@ -1,0 +1,20 @@
+.root{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    background-color: #222;
+}
+
+.title{
+    font-size: 36px;
+    color: white;
+    margin-bottom: 30px;
+}
+
+Button{
+    font-size: 24px;
+    margin: 10px;
+    width: 200px;
+    height: 50px;
+}
