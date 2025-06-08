@@ -11,6 +11,9 @@ Our unnamed game is an **Action RPG** featuring an **isometric camera view**.
 - **Procedurally Generated Regions and Dungeons** – Endless exploration and replayability.
 
 ## Meet the Creators
-- **Andrew Bazen** – User interface, character creation, and login screen. https://github.com/AndrewBazen
-- **Justin Falardeau** – Player controls, combat mechanics, and enemy combat design. https://github.com/MrSpamalot
-- **Kyle Griffitts** – Project organizer, level and map designer. https://github.com/Kyle-Griffitts
+- **Andrew Bazen**
+  – User interface, character creation, and login screen. https://github.com/AndrewBazen
+- **Justin Falardeau**
+  – Player controls, combat mechanics, and enemy combat design. https://github.com/MrSpamalot
+- **Kyle Griffitts**
+  – Project organizer, level and map designer. https://github.com/Kyle-Griffitts
